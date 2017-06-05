@@ -65,5 +65,5 @@ script.vbs | bs chat.freenode.net 6667
 ## Компиляция
 
 ```
-fbc bs.bas Network.bas WriteLine.bas
+fbc -mt bs.bas Network.bas WriteLine.bas version.rc
 ```
